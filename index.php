@@ -7,9 +7,8 @@
     <link rel="stylesheet" href="css/main.css">
     <title>Document</title>
 </head>
-
-
 <body>
+<<<<<<< HEAD
     <main>
     
     </main>
@@ -20,4 +19,16 @@
     </footer>
 </body>
 
+=======
+    <header> 
+
+    </header>
+    <main> 
+
+    </main>
+    <footer>
+
+    </footer>
+</body>
+>>>>>>> b29c88d55404de15b2a8458276b3977110e8829a
 </html>
