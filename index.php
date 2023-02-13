@@ -7,12 +7,15 @@
     <link rel="stylesheet" href="css/main.css">
     <title>Document</title>
 </head>
-
-
 <body>
-    
-</body>
-<footer>
+    <header> 
 
-</footer>
+    </header>
+    <main> 
+
+    </main>
+    <footer>
+
+    </footer>
+</body>
 </html>
