@@ -8,18 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-<<<<<<< HEAD
-    <main>
-    
-    </main>
-
-
-    <footer>
-
-    </footer>
-</body>
-
-=======
     <header> 
 
     </header>
@@ -30,5 +18,4 @@
 
     </footer>
 </body>
->>>>>>> b29c88d55404de15b2a8458276b3977110e8829a
 </html>

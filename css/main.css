@@ -1,5 +1,5 @@
 body {
-    height: 100px;
-    width: 100px;
-    background-color: brown;
+    background-image: url("../img/11036038.jpg");
+    background-size: cover;
+    background-color: none;
 }
